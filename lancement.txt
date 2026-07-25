@@ -1,0 +1,1 @@
+cd /Volumes/SSD_JMG/00.General/05_kazimirsky_ocr && source /Users/jean-marcguyetand/venvs/venv_kaz_ocr/bin/activate
